@@ -1,0 +1,25 @@
+.user-item-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.user-name{
+    margin: 10px 0px 0px 0px;
+}
+
+.user-name:hover{
+    color: rgb(110, 110, 110);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.user-places-count{
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
